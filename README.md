@@ -9,10 +9,10 @@
   <img align="left" alt="Dennis's Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
 </a>
 <a href="https://www.hackerrank.com/dennischo122">
-  <img align="left" alt="Dennis's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerranck.svg" />
+  <img align="left" alt="Dennis's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://profile.codersrank.io/user/crazy-coding">
-  <img align="left" alt="Dennis's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
+  <img align="left" alt="Dennis's Codersrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=crazy-coding.crazy-coding)
