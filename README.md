@@ -2,6 +2,18 @@
 <a href="https://www.linkedin.com/in/dennis-cho/">
   <img align="left" alt="Dennis's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="mailto:dennischo122@gmail.com">
+  <img align="left" alt="Dennis's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="skype:ubisemin">
+  <img align="left" alt="Dennis's Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
+</a>
+<a href="https://www.hackerrank.com/dennischo122">
+  <img align="left" alt="Dennis's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerranck.svg" />
+</a>
+<a href="https://profile.codersrank.io/user/crazy-coding">
+  <img align="left" alt="Dennis's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=crazy-coding.crazy-coding)
 
