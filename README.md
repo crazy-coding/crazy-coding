@@ -23,8 +23,6 @@
 <br />
 
 Hi, I'm [Dennis Cho](https://crazy-coding.github.io/), a Full Stack Developer from Korea, 7 years experience in web & mobile development.
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="400" height="200" />
   
 **Talking about Personal Stuffs:**
 
