@@ -1,11 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://crazy-coding.github.io/">
+  <img align="left" alt="Dennis's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/web.svg" />
+</a>
 <a href="https://www.linkedin.com/in/dennis-cho/">
   <img align="left" alt="Dennis's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:dennischo122@gmail.com">
   <img align="left" alt="Dennis's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="skype:live:ubisemin">
+<a href="skype:ubisemin?chat">
   <img align="left" alt="Dennis's Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
 </a>
 <a href="https://www.hackerrank.com/dennischo122">
