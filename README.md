@@ -23,13 +23,15 @@
 <br />
 
 Hi, I'm [Dennis Cho](https://crazy-coding.github.io/), a Full Stack Developer from Korea, 6 years experience in web & mobile development.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - I’m currently working on something cool :wink:;
 - I’m currently learning Kotlin, Flutter; 
 - Ask me about anything, I am happy to help;
-- How to reach me: [skype:live:ubisemin](https://join.skype.com/invite/fVK7VTL2nlps);
+- How to reach me with skype: [live:ubisemin](https://join.skype.com/invite/fVK7VTL2nlps);
 - [Resume](https://github.com/crazy-coding/portfolio_dennischo/raw/master/resume.pdf)
 
 **Languages and Tools:**  
