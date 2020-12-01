@@ -26,7 +26,7 @@ Hi, I'm [Dennis Cho](https://crazy-coding.github.io/), a Full Stack Developer fr
   
 **Talking about Personal Stuffs:**
 
-- I’m currently working on something cool :wink:;
+- I’m currently looking for a remote project :wink:;
 - I’m currently learning Kotlin, Flutter; 
 - Ask me about anything, I am happy to help;
 - How to reach me with skype: [live:ubisemin](https://join.skype.com/invite/fVK7VTL2nlps);
