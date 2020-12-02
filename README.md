@@ -1,20 +1,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://crazy-coding.github.io/">
+<a href="https://crazy-coding.github.io/" target="_blank">
   <img align="left" alt="Dennis's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
 </a>
-<a href="https://www.linkedin.com/in/dennis-cho/">
+<a href="https://www.linkedin.com/in/dennis-cho/" target="_blank">
   <img align="left" alt="Dennis's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:dennischo122@gmail.com">
   <img align="left" alt="Dennis's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://join.skype.com/invite/fVK7VTL2nlps">
+<a href="https://join.skype.com/invite/fVK7VTL2nlps" target="_blank">
   <img align="left" alt="Dennis's Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />
 </a>
-<a href="https://www.hackerrank.com/dennischo122">
+<a href="https://www.hackerrank.com/dennischo122" target="_blank">
   <img align="left" alt="Dennis's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://profile.codersrank.io/user/crazy-coding">
+<a href="https://profile.codersrank.io/user/crazy-coding" target="_blank">
   <img align="left" alt="Dennis's Codersrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
 </a>
 
