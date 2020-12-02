@@ -23,7 +23,9 @@
 <br />
 
 Hi, I'm [Dennis Cho](https://crazy-coding.github.io/), a Full Stack Developer from Korea, 7 years experience in web & mobile development.
-  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-coding&show_icons=true&count_private=true&langs_count=10&theme=gotham" alt="crazy-coding" />
+
 **Talking about Personal Stuffs:**
 
 - I’m currently looking for a remote project :wink:;
@@ -48,6 +50,4 @@ Hi, I'm [Dennis Cho](https://crazy-coding.github.io/), a Full Stack Developer fr
 
 **My GitHub Stats:**  
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=crazy-coding&show_icons=true&theme=gotham&count_private=true" alt="crazy-coding" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-coding&show_icons=true&count_private=true&langs_count=10&theme=gotham)](https://github.com/codegitpro/codegitpro)
+<img src="https://github-readme-stats.vercel.app/api?username=crazy-coding&show_icons=true&theme=gotham&count_private=true" alt="crazy-coding" />
