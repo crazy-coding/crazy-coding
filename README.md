@@ -51,3 +51,4 @@ Hi, I'm [Dennis Cho](https://crazy-coding.github.io/), a Full Stack Developer fr
 **My GitHub Stats:**  
 
 <img src="https://github-readme-stats.vercel.app/api?username=crazy-coding&show_icons=true&theme=gotham&count_private=true" alt="crazy-coding" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
