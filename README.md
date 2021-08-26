@@ -21,9 +21,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=crazy-coding.crazy-coding)
 
 <br />
-
-Hi, I'm [Dennis Cho](https://crazy-coding.github.io/), a Full Stack Developer from Korea, 7 years experience in web & mobile development.
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-coding&show_icons=true&count_private=true&langs_count=10&theme=gotham" alt="crazy-coding" />
 
 **Talking about Personal Stuffs:**
